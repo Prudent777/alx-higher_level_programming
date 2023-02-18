@@ -17,7 +17,7 @@ track at ALX Africa.
 
 ## Author :
 
-* **Victor Uwazurike** <[victoruwazurike1](https://github.com/victoruwazurike1)>
+* **Prudent NGAIPERA-DONG** <[PrudentNGAIPERA-DONG](https://github.com/Prudent777)>
 
 ## Acknowledgements :pray:
 
